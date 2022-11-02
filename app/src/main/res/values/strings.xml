@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">App_02</string>
+
+    <!--Login labels-->
+    <string name="lbl_usuario">Usuario</string>
+    <string name="lbl_contra">Contraseña</string>
+    <string name="lbl_Repitecontra">Repite Contraseña</string>
+    <string name="btn_autenticar">Validar usuario</string>
+    <string name="val_usuario">El usuario es requerido</string>
+    <string name="val_contra">La contraseña es requerida</string>
+    <string name="msg_fin">Esperando hacer algo</string>
+    <string name="btn_registrar">Registrate</string>
+    <string name="lbl_nombreCompleto">Nombre Completo</string>
+    <string name="lbl_Registro">Registro</string>
+    <string name="lbl_Autentificar">Autentificar al iniciar</string>
+    <string name="lbl_PreguntaSecreta">Pregunta Secreta</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="lbl_descripccion">Digite la descripccion</string>
+    <string name="lbl_NombreEvento">Digite el nombre del evento</string>
+
+
+    <string name="lbl_Planetas">Planeta</string>
+
+    <string-array name="planets_array">
+        <item>Numero de telefono</item>
+        <item>Nombre de papa</item>
+        <item>Cumpleaños</item>
+    </string-array>
+
+
+</resources>

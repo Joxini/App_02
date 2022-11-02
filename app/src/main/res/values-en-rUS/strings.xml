@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App_02</string>
+    <string name="lbl_usuario">User</string>
+    <string name="lbl_contra">Password</string>
+    <string name="btn_autenticar">Validate user</string>
+    <string name="val_usuario">User required</string>
+    <string name="val_contra">Password required</string>
+    <string name="msg_fin">Something to do</string>
+    <string name="btn_registrar">Registre</string>
+    <string name="lbl_nombreCompleto">name complet</string>
+    <string name="lbl_Repitecontra">repeat password</string>
+    <string name="lbl_Registro">Registration</string>
+    <string name="lbl_Autentificar">authentication at startup</string>
+    <string name="lbl_PreguntaSecreta">Question Secret</string>
+    <string name="btn_aceptar">To accept</string>
+    <string name="lbl_NombreEvento">"Type the name of the event "</string>
+    <string name="lbl_descripccion">Type the description</string>
+    <string name="lbl_Nota">note</string>
+    <string name="lbl_Planetas">Planets</string>
+</resources>
